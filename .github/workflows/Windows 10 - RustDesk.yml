@@ -1,4 +1,4 @@
-name: Windows - RustDesk
+name: Myapps
 
 on:
   workflow_dispatch:
